@@ -1,0 +1,20 @@
+unlink 2 2
+f1
+create 2 3 33204 3
+fx1
+write 3 3 0 3
+102 120 120 
+unlink 2 3
+fx1
+create 2 2 33204 3
+f2
+write 3 3 0 3
+50 50 50 
+unlink 2 2
+f2
+create 2 2 33204 3
+f3
+write 3 3 0 3
+51 51 51 
+unlink 2 2
+f3
